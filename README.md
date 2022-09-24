@@ -1,4 +1,4 @@
 # Predict-Gnder-from-Name
 Predict Gnder from Name is a mini project in machine learning.
-We make a DatadaFrame from fake library.
+<br>We make a DatadaFrame from fake library.
 Then extrct name, gender, gender probibility, contry from this DataFrame.
